@@ -1,0 +1,5 @@
+{
+  "name": "synthetic-graph-topology-generator",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
