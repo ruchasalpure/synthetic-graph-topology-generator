@@ -1,6 +1,0 @@
-app:
-  name: "synthetic-graph-topology-generator"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
